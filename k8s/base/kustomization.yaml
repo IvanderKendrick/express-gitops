@@ -5,3 +5,8 @@ resources:
   - deployment.yaml
   - service.yaml
   - ingress.yaml
+
+images:
+  - name: express-app
+    newName: ghcr.io/ivanderkendrick/express-devops-app
+    newTag: latest
