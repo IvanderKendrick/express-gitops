@@ -9,4 +9,4 @@ resources:
 images:
   - name: express-app
     newName: ghcr.io/ivanderkendrick/express-devops-app
-    newTag: latest
+    newTag: sha-be21439
